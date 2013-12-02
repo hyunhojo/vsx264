@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="13.0"
+	Name="x264"
+	ProjectGUID="{7BEADD99-4A39-4F9F-B189-B10262359AD7}"
+	VCNestedProjectGUID="{22E1814D-7955-4456-AEA5-0C9BA7500792}"
+	VCNestedProjectFileName="x264.vcproj"
+	>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			>
+			<Tool
+				Name="CppCmplrTool"
+				C99Support="true"
+			/>
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			>
+			<Tool
+				Name="CppCmplrTool"
+				C99Support="true"
+			/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

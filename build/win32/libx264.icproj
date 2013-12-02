@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="13.0"
+	Name="libx264"
+	ProjectGUID="{C6A1F3FE-427B-4F0C-BBE1-90A0C0BBB2D5}"
+	VCNestedProjectGUID="{A8D6E4CD-1885-4B03-8E41-5F3DB825BAA6}"
+	VCNestedProjectFileName="libx264.vcproj"
+	>
+	<Configurations>
+		<Configuration
+			Name="Release|Win32"
+			>
+			<Tool
+				Name="CppCmplrTool"
+				C99Support="true"
+			/>
+		</Configuration>
+		<Configuration
+			Name="Debug|Win32"
+			>
+			<Tool
+				Name="CppCmplrTool"
+				C99Support="true"
+			/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
